@@ -72,9 +72,9 @@ cd ntfs-sanitizer
 
 Or download just the script file:
 ```bash
-wget https://raw.githubusercontent.com/cypher-me/ntfs-sanitizer/main/ntfs_sanitizer.py
+wget https://github.com/cypher-me/ntfs-sanitizer/blob/91bd85f083d124a744bb1fd9bd730f46ae5b6c9e/ntfs-sanitizer.py
 # or
-curl -O https://raw.githubusercontent.com/cypher-me/ntfs-sanitizer/main/ntfs_sanitizer.py
+curl -O https://github.com/cypher-me/ntfs-sanitizer/blob/91bd85f083d124a744bb1fd9bd730f46ae5b6c9e/ntfs-sanitizer.py
 ```
 
 2. Place the script in the same directory where you need to sanitize files:
